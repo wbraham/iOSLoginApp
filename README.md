@@ -13,7 +13,9 @@
 ## Used PODS :
 
 + [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
-+ [My Portfolio](http://www.wbraham.me)
++ [Alamofire](https://github.com/Alamofire/Alamofire)
++ [Alamofire Image](https://github.com/Alamofire/AlamofireImage)
++ [Firebase](https://firebase.google.com/)
 
 ## Links:
 
